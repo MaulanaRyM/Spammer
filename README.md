@@ -1,7 +1,7 @@
 # Spammer
 Spam Call Insyaallah All Operator :)
 
-# How ?
+# How To Install?
 $apt update && apt upgrade -y
 
 $pkg install git php -y
